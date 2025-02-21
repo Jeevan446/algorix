@@ -1,0 +1,23 @@
+{
+  "name": "algorix",
+  "version": "1.0.0",
+  "description": "mathematics package",
+  "main": "index.cjs",
+  "exports": {
+    "import": "./index.mjs",
+    "require": "./index.cjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeevan446/algorix.git"
+  },
+  "author": "Jeevan neupane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeevan446/algorix/issues"
+  },
+  "homepage": "https://github.com/Jeevan446/algorix#readme"
+}
