@@ -16,7 +16,7 @@ You can install Algorix via npm:
 ```commonjs
 const algoObject = require('algorix');
 or
-import algoObject from 'algorix';
+import {algoObject} from 'algorix';
 ```
 
 
