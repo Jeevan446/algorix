@@ -1,6 +1,6 @@
 {
   "name": "algorix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mathematics package",
   "main": "index.cjs",
   "exports": {
